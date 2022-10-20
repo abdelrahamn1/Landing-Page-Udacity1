@@ -1,6 +1,3 @@
-# Landing-Page-Udacity1
-Udacity Landing Page Project Number One For Professional Web Development Nanodegree.
-
 ### This Project is about building Navigation Bar for Landing Page Dynamically using JavaScript and Some Other Cool Stuff.
 
 
